@@ -1,5 +1,5 @@
 homepage: "https://www.zurvey.io/",
 documentation: "https://zurvey.stonly.com/",
 versions:
-  - sha: 779c20d516f6312cf1c273d200f1ed67b40218b0
+  - sha: 8eebd9b976e490dc159ce118bd0f506991fe9f2d
     changeNotes: Initial release.
